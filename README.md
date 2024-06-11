@@ -9,4 +9,5 @@ Many of these projects are just fun side projects. Nothing to take too seriously
 
 Notable Works:
 - [Laser Demon Babies](https://github.com/noahl25/Laser-Demon-Babies) (Unity FPS shooter)
-- [Raycasting Engine](https://github.com/noahl25/SDL3DRaycastingEngine)
+- [Raycasting Engine](https://github.com/noahl25/SDL3DRaycastingEngine) (CPU-side using SDL)
+- [Raytracing Engine](https://github.com/noahl25/sdl-raytracer) (CPU-side using SDL)
