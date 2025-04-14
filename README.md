@@ -8,6 +8,6 @@
 ### More
 
 Projects to check out!
-- [Laser Demon Babies](https://github.com/noahl25/Laser-Demon-Babies) (Unity FPS)
-- [Raycasting Engine](https://github.com/noahl25/SDL3DRaycastingEngine) (CPU-side using SDL)
+- [Laser Demon Babies](https://github.com/noahl25/Laser-Demon-Babies) (Unity Multiplayer FPS)
+- [Raycasting Engine](https://github.com/noahl25/SDL3DRaycastingEngine) or [Improved Raycasting Engine](https://github.com/noahl25/improvedraycastingengine) (CPU-side using SDL)
 - [OpenGL Model Renderer](https://github.com/noahl25/OpenGL-3D-Model-Renderer)
