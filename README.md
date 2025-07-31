@@ -8,6 +8,6 @@
 ### More
 
 Projects to check out!
-- [Path Tracer]([https://github.com/noahl25/Laser-Demon-Babies](https://github.com/noahl25/sdl-path-tracer)) (using SDL2)
+- [Path Tracer](https://github.com/noahl25/sdl-path-tracer) (using SDL2)
 - [Improved Raycasting Engine](https://github.com/noahl25/improved-raycasting-engine) (using SDL2)
 - [OpenGL Software Rasterizer](https://github.com/noahl25/OpenGL-3D-Model-Renderer)
