@@ -2,7 +2,7 @@
 👋 Hey! I’m a developer passionate about graphics programming, game development, and full-stack web design.<br>I'm currently studying computer science and computer engineering at Vanderbilt University.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/noah-lisin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noah-lisin-a08009316/)
 
 ## 💡Some Projects:
 - [Raycasting Engine](https://github.com/noahl25/improved-raycasting-engine) (C, SDL)
