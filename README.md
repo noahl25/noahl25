@@ -7,7 +7,7 @@
 ## 💡Some Projects:
 ### Graphics
 - [Raycasting Engine](https://github.com/noahl25/improved-raycasting-engine) (C, SDL)
-- [Pathtracing (yes, there's a difference)](https://github.com/noahl25/sdl-path-tracer) (C, SDL)
+- [Pathtracing](https://github.com/noahl25/sdl-path-tracer) (C, SDL)
 - [OpenGL Software Rasterizer](https://github.com/noahl25/OpenGL-3D-Model-Renderer) (C, OpenGL, GLSL)  
 ### Web dev
 - [Full Stack Social Media](https://github.com/noahl25/comcon) (React, FastAPI, SQL, TailwindCSS, Framer-Motion)  
