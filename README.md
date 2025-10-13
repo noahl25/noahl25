@@ -8,7 +8,6 @@
 - [Raycasting Engine](https://github.com/noahl25/improved-raycasting-engine) (C, SDL)
 - [Pathtracing](https://github.com/noahl25/sdl-path-tracer) (C, SDL)
 - [OpenGL Software Rasterizer](https://github.com/noahl25/OpenGL-3D-Model-Renderer) (C, OpenGL, GLSL)  
-- [Full Stack Social Media](https://github.com/noahl25/comcon) (React, FastAPI, SQL, TailwindCSS, Framer-Motion)
 
 a little python package im working on: [simplr](https://github.com/noahl25/simplr) / [pypi](https://pypi.org/project/simplr/)
 
