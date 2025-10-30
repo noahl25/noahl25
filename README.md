@@ -9,7 +9,7 @@
 - [Pathtracing](https://github.com/noahl25/sdl-path-tracer) (C, SDL)
 - [OpenGL Software Rasterizer](https://github.com/noahl25/OpenGL-3D-Model-Renderer) (C, OpenGL, GLSL)  
 
-a little python package im working on, a CLI for running commands with natural language: [simplr](https://github.com/noahl25/simplr) / [pypi](https://pypi.org/project/simplr/)
+a little python package im working on, a CLI for running commands with natural language: [simplr](https://github.com/noahl25/simplr) / [pypi](https://pypi.org/project/simplr/)  
 a real-time crypto AI agent for discovering metrics, sentiment, and creating custom dashboards. [lens](https://github.com/noahl25/lens)
 
 # 💻 Tech Stack:
