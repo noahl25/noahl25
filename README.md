@@ -6,6 +6,10 @@
 
 ## 💡Some Projects:
 
+what i'm working on currently:
+- [promo website for vanderbilt's collegiate hackathon](https://github.com/VandyHacks/vh12)
+- [mobile app for a nashville non-profit](https://github.com/ChangePlusPlusVandy/contributor)
+
 graphics:  
 - [Raycasting Engine](https://github.com/noahl25/improved-raycasting-engine) (C, SDL)
 - [Pathtracing](https://github.com/noahl25/sdl-path-tracer) (C, SDL)
