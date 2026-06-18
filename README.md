@@ -36,9 +36,7 @@
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=noahl25&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noahl25&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="top langs" />
 
-<img width="100%" src="https://nirzak-streak-stats.vercel.app/?user=noahl25&theme=tokyonight&hide_border=true" alt="streak" />
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=noahl25&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
+<img width="100%" src="https://streak-stats.demolab.com/?user=noahl25&theme=tokyonight&hide_border=true" alt="streak" />
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=noahl25&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
 
