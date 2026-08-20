@@ -1,4 +1,4 @@
-👋  I'm a developer passionate about graphics programming and full-stack web design. I'm currently studying Computer Science and Applied Math at **Vanderbilt University**.
+👋  I'm a developer passionate about graphics programming and full-stack web design. I'm currently studying Computer Science and Applied Math at Vanderbilt University.
 
 ## 🛠️ Tech Stack
 
