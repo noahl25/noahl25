@@ -1,19 +1,4 @@
-👋 Hey! I'm a developer passionate about graphics programming and full-stack web design. I'm currently studying Computer Science and Applied Math at **Vanderbilt University**.
-
-## 🚀 Featured Projects
-
-#### 🔭 Currently Working On
-| Project | Description |
-| :------ | :---------- |
-| [**VandyHacks · vh12**](https://github.com/VandyHacks/vh12) | Promo website for Vanderbilt's collegiate hackathon |
-| [**Contributor**](https://github.com/ChangePlusPlusVandy/contributor) | Mobile app for a Nashville non-profit |
-
-#### 🎨 Graphics & Rendering
-| Project | Stack |
-| :------ | :---- |
-| [**Improved Raycasting Engine**](https://github.com/noahl25/improved-raycasting-engine) | `C` · `SDL` |
-| [**SDL Path Tracer**](https://github.com/noahl25/sdl-path-tracer) | `C` · `SDL` |
-| [**OpenGL 3D Model Renderer**](https://github.com/noahl25/OpenGL-3D-Model-Renderer) | `C` · `OpenGL` · `GLSL` |
+👋  I'm a developer passionate about graphics programming and full-stack web design. I'm currently studying Computer Science and Applied Math at **Vanderbilt University**.
 
 ## 🛠️ Tech Stack
 
